@@ -17,7 +17,7 @@
 ![picture 3](images/1a12f693c34850dae32a3567cb73ea84a97095868f4e5d3949fd625dce664d06.png)  
 ![picture 4](images/9fcc6e7359f552a5565bfffe6eb18f12b3a1c9149738c799a0aae16236bfcac6.png)  
 
-- Blenderを再起動してアセットライブラリを表示するとRM_TOOLの項目があり、その中にRM_CurveMorphのほかサンプル用のメッシュが入っていればアセットライブラリへの登録は成功です。
+- Blenderを再起動してアセットライブラリを表示するとRM_TOOLの項目があり、その中に「RM_SubdivisionSurface」が入っていればアセットライブラリへの登録は成功です。
 ![picture 1](images/c187ad54f4795111348d2ee52c2889a48ed92742aecf3c8175ad93a5fcece455.png)  
 
 ### 使用方法
