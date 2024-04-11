@@ -1,5 +1,5 @@
 # RM_SubdivisionSurface
-- **RM_SubdivisionSurface**は3DCGソフトBlenderのジオメトリーノード製のツールです。オブジェクトのメッシュを細分化し滑らかにします。RM_SubdivisionSurfaceではメッシュの痩せ・太り具合、スムーズをコントロールできます。
+- **RM_SubdivisionSurface**は3DCGソフトBlenderのジオメトリーノード製のツールです。オブジェクトのメッシュを細分化し滑らかにします。RM_SubdivisionSurfaceではメッシュの痩せ・太り具合、スムーズをコントロールできます。 [Amazon wish list](https://t.co/uyceRKkqjA)
 ![picture 5](images/bdcbae986be22dce2d72e371dd7131aabb05b65b88d289c0de2dd2585ed3a1e0.gif)  
 
 ---
